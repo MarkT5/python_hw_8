@@ -1,0 +1,402 @@
+GET '/621214938579572901982611939206054386999/%3Cscript%3Ealert(%22homepage%20XSS%22)%3C/script%3E' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/%3Cscript%3Ealert(%22homepage%20XSS%22)%3C/script%3E
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/snippets.gtl?uid=mark
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+200 OK / Raw / Padding
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 200
+  Reason_Phrase= OK
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 967
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:15:44 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = None
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'71fe97544667a15cd0d54615e5a9bb7f'}
+###[ Raw ]###
+     load      = b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">\n<!-- Copyright 2017 Google Inc. -->\n<html>\n<head>\n<title>Gruyere: Error</title>\n<style>\n/* Copyright 2017 Google Inc. */\n\nbody, html, td, span, div, input, textarea {\n  font-family: sans-serif;\n  font-size: 14pt;\n}\n\nbody {\n  background: url(\'cheese.png\') top center repeat;\n  text-align: center;\n  opacity: 0.80;\n}\n\nh2 {\n  text-align: center;\n  font-size: 30pt;\n  font-weight: bold;\n}\n\ntd {\n  vertical-align: top;\n  padding: 5px;\n}\n\na, a:hover {\n  text-decoration: underline;\n  color: #0000bb;\n}\n\na:visited {\n  color: #bb0000;\n}\n\na.button:visited {\n  color: #0000bb;\n}\n\n.content {\n  text-align: left;\n  margin-left: auto;\n  margin-right: auto;\n  width: 90%;\n  background: #ffffcc;\n  padding: 20px;\n  border: 3px solid #ffb149;\n}\n\n.menu {\n  text-align: left;\n  padding: 10px 20px 35px 20px;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 20px;\n  width: 90%;\n  background: #ffffcc;\n  border: 3px'
+###[ Padding ]###
+        load      = b' solid #ffb149;\n}\n\n.menu-user {\n  color: #000000;\n  font-weight: bold;\n}\n\n#menu-left {\n  float: left;\n}\n\n#menu-left a, #menu-left a:hover, #menu-left a:visited {\n  color: #000000;\n}\n\n#menu-right {\n  float: right;\n}\n\n#menu-right a, #menu-right a:hover, #menu-right a:visited {\n  color: #000000;\n}\n\n.message {\n  width: 50%;\n  color: #ff0000;\n  background: #ffdddd;\n  border: 2px solid #ff0000;\n  border-radius: 1em;\n  -moz-border-radius: 1em;\n  padding: 10px;\n  font-weight: bold;\n  text-align: center;\n  margin: auto;\n  margin-top: 20px;\n  margin-bottom: 20px;\n}\n\ninput, textarea {\n  background-color: #ffffff;\n}\n\n.refresh {\n  float: center;\n  width: 90%;\n  text-align: right;\n  margin: auto;\n  padding-top: 0;\n  padding-bottom: 2pt;\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.h2-with-refresh {\n  margin-bottom: 0;\n}\n\n</style>\n\n</head>\n\n<body>\n\n<div class=\'menu\'>\n  <span id=\'menu-left\'>\n    <a href=\'/621214938579572901982611939206054386999/\'>Home</a>\n      \n      | <a href=\'/621214938579572901982611939206054386999/snippets.gtl\'>My&nbsp;Snippets</a>\n      | <a href=\'/621214938579572901982611939206054386999/newsnippet.gtl\'>New&nbsp;Snippet</a>\n      | <a href=\'/621214938579572901982611939206054386999/upload.gtl\'>Upload</a>\n      \n  </span>\n  <span id=\'menu-right\'>\n      \n      <span class=\'menu-user\'>\n        mark &lt;mark&gt;\n      </span>\n      \n      | <a href=\'/621214938579572901982611939206054386999/editprofile.gtl\'>Profile</a>\n      | <a href=\'/621214938579572901982611939206054386999/logout\'>Sign out</a>\n      \n      \n  </span>\n</div>\n\n\n\n<div class=\'message\'>Invalid request: /<script>alert("homepage XSS")</script></div>\n\n\n</body>\n\n</html>\n'
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright 2017 Google Inc. -->
+<html>
+ <head>
+  <title>
+   Gruyere: Error
+  </title>
+  <style>
+   /* Copyright 2017 Google Inc. */
+
+body, html, td, span, div, input, textarea {
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+
+body {
+  background: url('cheese.png') top center repeat;
+  text-align: center;
+  opacity: 0.80;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+a, a:hover {
+  text-decoration: underline;
+  color: #0000bb;
+}
+
+a:visited {
+  color: #bb0000;
+}
+
+a.button:visited {
+  color: #0000bb;
+}
+
+.content {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background: #ffffcc;
+  padding: 20px;
+  border: 3px solid #ffb149;
+}
+
+.menu {
+  text-align: left;
+  padding: 10px 20px 35px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 90%;
+  background: #ffffcc;
+  border: 3px
+  </style>
+ </head>
+</html>
+
+GET '/621214938579572901982611939206054386999/%3Cscript%3Ealert(%22homepage%20XSS%22)%3C/cheese.png' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/%3Cscript%3Ealert(%22homepage%20XSS%22)%3C/cheese.png
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/%3Cscript%3Ealert(%22homepage%20XSS%22)%3C/script%3E
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= None
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+200 OK / Raw / Padding
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 200
+  Reason_Phrase= OK
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 968
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:15:44 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = None
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'f7bfc672556ff7d6d0d54615e5a9bf8c'}
+###[ Raw ]###
+     load      = b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">\n<!-- Copyright 2017 Google Inc. -->\n<html>\n<head>\n<title>Gruyere: Error</title>\n<style>\n/* Copyright 2017 Google Inc. */\n\nbody, html, td, span, div, input, textarea {\n  font-family: sans-serif;\n  font-size: 14pt;\n}\n\nbody {\n  background: url(\'cheese.png\') top center repeat;\n  text-align: center;\n  opacity: 0.80;\n}\n\nh2 {\n  text-align: center;\n  font-size: 30pt;\n  font-weight: bold;\n}\n\ntd {\n  vertical-align: top;\n  padding: 5px;\n}\n\na, a:hover {\n  text-decoration: underline;\n  color: #0000bb;\n}\n\na:visited {\n  color: #bb0000;\n}\n\na.button:visited {\n  color: #0000bb;\n}\n\n.content {\n  text-align: left;\n  margin-left: auto;\n  margin-right: auto;\n  width: 90%;\n  background: #ffffcc;\n  padding: 20px;\n  border: 3px solid #ffb149;\n}\n\n.menu {\n  text-align: left;\n  padding: 10px 20px 35px 20px;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 20px;\n  width: 90%;\n  background: #ffffcc;\n  border: 3px '
+###[ Padding ]###
+        load      = b'solid #ffb149;\n}\n\n.menu-user {\n  color: #000000;\n  font-weight: bold;\n}\n\n#menu-left {\n  float: left;\n}\n\n#menu-left a, #menu-left a:hover, #menu-left a:visited {\n  color: #000000;\n}\n\n#menu-right {\n  float: right;\n}\n\n#menu-right a, #menu-right a:hover, #menu-right a:visited {\n  color: #000000;\n}\n\n.message {\n  width: 50%;\n  color: #ff0000;\n  background: #ffdddd;\n  border: 2px solid #ff0000;\n  border-radius: 1em;\n  -moz-border-radius: 1em;\n  padding: 10px;\n  font-weight: bold;\n  text-align: center;\n  margin: auto;\n  margin-top: 20px;\n  margin-bottom: 20px;\n}\n\ninput, textarea {\n  background-color: #ffffff;\n}\n\n.refresh {\n  float: center;\n  width: 90%;\n  text-align: right;\n  margin: auto;\n  padding-top: 0;\n  padding-bottom: 2pt;\n  margin-top: 0;\n  margin-bottom: 0;\n}\n\n.h2-with-refresh {\n  margin-bottom: 0;\n}\n\n</style>\n\n</head>\n\n<body>\n\n<div class=\'menu\'>\n  <span id=\'menu-left\'>\n    <a href=\'/621214938579572901982611939206054386999/\'>Home</a>\n      \n      | <a href=\'/621214938579572901982611939206054386999/snippets.gtl\'>My&nbsp;Snippets</a>\n      | <a href=\'/621214938579572901982611939206054386999/newsnippet.gtl\'>New&nbsp;Snippet</a>\n      | <a href=\'/621214938579572901982611939206054386999/upload.gtl\'>Upload</a>\n      \n  </span>\n  <span id=\'menu-right\'>\n      \n      <span class=\'menu-user\'>\n        mark &lt;mark&gt;\n      </span>\n      \n      | <a href=\'/621214938579572901982611939206054386999/editprofile.gtl\'>Profile</a>\n      | <a href=\'/621214938579572901982611939206054386999/logout\'>Sign out</a>\n      \n      \n  </span>\n</div>\n\n\n\n<div class=\'message\'>Invalid request: /<script>alert("homepage XSS")</cheese.png</div>\n\n\n</body>\n\n</html>\n'
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright 2017 Google Inc. -->
+<html>
+ <head>
+  <title>
+   Gruyere: Error
+  </title>
+  <style>
+   /* Copyright 2017 Google Inc. */
+
+body, html, td, span, div, input, textarea {
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+
+body {
+  background: url('cheese.png') top center repeat;
+  text-align: center;
+  opacity: 0.80;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+a, a:hover {
+  text-decoration: underline;
+  color: #0000bb;
+}
+
+a:visited {
+  color: #bb0000;
+}
+
+a.button:visited {
+  color: #0000bb;
+}
+
+.content {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background: #ffffcc;
+  padding: 20px;
+  border: 3px solid #ffb149;
+}
+
+.menu {
+  text-align: left;
+  padding: 10px 20px 35px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 90%;
+  background: #ffffcc;
+  border: 3px
+  </style>
+ </head>
+</html>
+

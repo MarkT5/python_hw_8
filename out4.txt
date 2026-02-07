@@ -1,0 +1,124 @@
+GET '/621214938579572901982611939206054386999/newsnippet2?snippet=newsnippet' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/newsnippet2?snippet=newsnippet
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/newsnippet.gtl
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+GET '/621214938579572901982611939206054386999/snippets.gtl' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/snippets.gtl
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/newsnippet.gtl
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+

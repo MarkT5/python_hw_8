@@ -1,0 +1,533 @@
+GET '/621214938579572901982611939206054386999/saveprofile?action=update&name=mark&oldpw=&pw=&icon=&web_site=%3Cscript%3Ealert%28%22homepage+XSS%22%29%3C%5Cscript%3E&color=&private_snippet=' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/saveprofile?action=update&name=mark&oldpw=&pw=&icon=&web_site=%3Cscript%3Ealert%28%22homepage+XSS%22%29%3C%5Cscript%3E&color=&private_snippet=
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/editprofile.gtl
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+302 Found / Raw / Padding
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 302
+  Reason_Phrase= Found
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 172
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:31:16 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'f25bc8f5288224350e7f1d35d160aadc'}
+###[ Raw ]###
+     load      = b'<!DOCTYPE HTML PUBLIC \'-//W3C//DTD HTML//EN\\>\n        <html><body>\n        <title>302 Redirect</title>\n        Redirected <a href="/621214938579572901982611939206054386999/'
+###[ Padding ]###
+        load      = b'">here</a>\n        </body></html>'
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML//EN\>
+<html>
+ <body>
+  <title>
+   302 Redirect
+  </title>
+  Redirected
+ </body>
+</html>
+
+GET '/621214938579572901982611939206054386999/' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/editprofile.gtl
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+200 OK / Raw
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 200
+  Reason_Phrase= OK
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 1349
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:31:17 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = None
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'e36e13d85e12e3f00e7f1d35d160aaa7'}
+###[ Raw ]###
+     load      = b'\x1f\x8b\x08\x00\x00\x00\x00\x00\x02\xff\xc5Xmo\xdb6\x10\xfe\xee_\xc18h\x95t\x91%\xdby\xb3b\xabX\x93\xa2-\xd0t\xc1\x92b\x1b0`\xa0$\xdabC\x8b*I\xc5q\xb7\xfd\xf7\x1dI\xbd\xd9q\xba4Y1}\x88\xa8\xe3\xf1^\x9e\xe7H\x9e3\xde:\xfb\xe9\xf4\xea\xb7\x8b\xd7\xe8\xed\xd5\xf9{t\xf1\xf1\xd5\xfbw\xa7\xa8\xebz\xde/\xc3S\xcf;\xbb:\xb3\x13\xfb=\xbf\x8f\xae\x04\xce$U\x94g\x98y\xde\xeb\x0f\xdd\xb03\xder]t\xca\xf3\xa5\xa0\xb3T\xa1\x81\xdf?Bo8\x9f1\x82\xdeeq\x0f\xb9.\xe8\xa4j\xce\xf4\x8b\xe0\x04^\x8a*F\xc27\xa2X\x12A\x02\xf4\x96\xcf\xc9\xd8\xb3\xc2\xceX\xaa\xa5~{/\xbef\xf4\x85\xd7\xe9D<Y\xee!my\x0f\xa9d\x0f\xc9\x1cg{(\xa17{\x88fy\xa1@Jn\x15\x16\x04\xa3?;\x08My\xa6\xdc)\x9eS\xb6\x0c\x90\x844\\I\x04\x9d\x9eTS\x92~\x81X\xfa\xfb\xb9:\xe9\xfcm\xad\x9bu\x11\x8e\xafg\x82\x17Y\x12\xa0B\xb0\x1d\'N\t\x91\xa4\x97g3g\x17)\x9e\xa3\x98d\x8a\x08$HN\xb0\xd2\xf6\xb4_\x173:\xcb\x82rRKy\x8ec\xaa\xc0\xb9\xdf;\xf6\x8d\x8ft`<lVo\x055\xf4sU\x8b\x16DC\x12\xa0\x88\xb3\xc4XQ\x89\xb1rC\x84\xa21f\x95%\x88L\xaf\xc9q\x92\xd0l\x16\xa0\x83\xfc\xd6\xa8\xe3=\x84\x83\x94\x83z\xe3<!1\x17X\xd3\n9f\t\x11\x8cfD\xaf\x8e9\xe3"@\xdb><Qd\xd7\x077\x14J\x80X\xaf\x95B\x14i\x15\xab\xd0\x8b\n\xa5\xc0\xd4&\xbd\x96\xa1^\x0c\xe9@\xbaw0`dj\xd2\x9dc1\xa3\x99\xab?\x03\x84\x0b\xc5[BaA\xa8\xa4\x0b\x9a\xa84@#\xff\xd9\xc9\x1ae\xdbSx\xe2x\x05\x8a\x81\xaf\xb1\x00=. W\xc07\xbfE\x923\x9ah\xed\xa8\xbf?\xb2\xf1\xcdIV\xdc\x1b\\m\xac\x0f\xc6\x8cE4<(G\xdf\x18|)\x05\xc2\x9a\xd0\x1e\x94\xd0\x03\xe2w\x0bY\x12\xddf@3u_9m\x9be:n\xbbm\x18\xc7\xaaJ{u\x1a*\xa9\xfde\x8bjMv_\r\x94\xb5bu\xed&oy3\x82;\n\xb5\xbf\xf2s\xd5a%\xfc\x17\x8f\x80\x8a\x94xF\xcc|\x89\xf2\x81E\xb9\xd2\x9eN+\x84\xd6pO\xe0i\xe3>h\xe3^\xaf1\x93\xae\xc0\t-$\x94\x07\x99k\xa9;\xe7_\xdc\xcdS+\x95t\x0f/\xf7\x1d\x12\xb6t\xbe^J\xa5,\xe2\xb0)\xe7\x95\x18\x90\xd8tH6\t\xbb\r\x1a\xfa\xb1\xd8\t2\x15D\xa6m\xaa\x9aXVK\xb6\x1doI\xe7\xddp\xcb\xd4m\xbc~[RG\x9b\xab\xf5\xbc\xfc\rI\x95\xdc\xa6\x03wAU\xea\xb6\xe3\xdc\xa89\xf6\xcak\x06\xee\x9bX\xd0\\!)\xe2I\xd7;\x1c\xf4\x07\xb0\x7f\x86\xc7\x07G\xa3\x83\xa3\xc1\xc8\xef\x8f\x8e\x07\x87\xfd\xfeh8\x1a\xf8\x87\xfe\xc1\xfe\xf0\xf8p4\x1ay\x8cF\xbdO\xb2k\xb2\x9ct\xf5_\xef\x13\xbe\xc1\xd6\x96\xbe\x14=;\xd4#{\xe9u\xc6\xfaF\xd1o\xb8\xa1P\xcc\xb0\x94\x13G\x17\xae\x13B\x90c}y!\x9aX\x91\xd9<F\x0e3\x18\xa5\x90\xce\xc4yplNh/Tl\r T\xbe\xfez\x84-\x99\xd1<\'J\xf6f\x8a9\xe1\xf9\xf2y\x16\xc9\xfc\xe4\xb2\x94\xb6|<\xc6xF\x16\xa5}k\xfe\x03Y\xac\xd8\x7f\xa2\xf9"\x87\nM\xac\xe9\x8ff\xbc\x8a\tp\x04\xa0o@\xdf\x94\xab\xb3\x86\x9e\xd5i\xf1fN\xd6Z\xcb\xd4\xd95z\xce\xd4\x89\x1e<\x9f\x99\xb25\x0bk7O\xe4\x82$T\xe5\x82O)#6\xa9\x0b\xfb\xf1D\x98\x18\x9f\xf1\x02\xd2\xbd\x84\xad\x8a`t\xb7pZX\x8d=\xa8\xde\xb2\x88u?7\xa8\x10I\xb1\xacv\x9d\xb3\xde\xd9\xa5\x83p\xa5\xeak=\x08\xb6\x14\xd9\x8e\xc1A<\x8b\x19\x8d\xaf\'\xce\x1f\xa5\x92\xb6\xb0\xd3}`.\xdd]\xa7\xcc~\xdb\t\x7f\xb6\x06t:e\xd4\xd5\xab\x15J\xd9\x828\xba)\xc5\x11t\x97\xe6\x10\x9b8}\xdf\x7f\x06B\x9d\xb9\x12\xe1\x18Z,8\x0e5\x04\x13g\x08qG\xe19\x97\n:>}\xfa\xa1j\x93\x04c/\x02_*\xd1\x7f\x04\xac6\x8f5a\xf72Lu\x1ad\x8d\xea\xda\x04\x02\xdb\xb6\xd4\xcc\x01\xa5#\xd4\xc7p\xc4\n\xe2\x84\xa7)I\x12,\xd09\x8eKB\xb4\xc7\xbb\xb6V\xb3h\xaa;\xb6\xebk\x82\x10'
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright 2017 Google Inc. -->
+<html>
+ <head>
+  <title>
+   Gruyere: Home
+  </title>
+  <style>
+   /* Copyright 2017 Google Inc. */
+
+body, html, td, span, div, input, textarea {
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+
+body {
+  background: url('cheese.png') top center repeat;
+  text-align: center;
+  opacity: 0.80;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+a, a:hover {
+  text-decoration: underline;
+  color: #0000bb;
+}
+
+a:visited {
+  color: #bb0000;
+}
+
+a.button:visited {
+  color: #0000bb;
+}
+
+.content {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background: #ffffcc;
+  padding: 20px;
+  border: 3px solid #ffb149;
+}
+
+.menu {
+  text-align: left;
+  padding: 10px 20px 35px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 90%;
+  background: #ffffcc;
+  border: 3px solid #ffb149;
+}
+
+.menu-user {
+  color: #000000;
+  font-weight: bold;
+}
+
+#menu-left {
+  float: left;
+}
+
+#menu-left a, #menu-left a:hover, #menu-left a:visited {
+  color: #000000;
+}
+
+#menu-right {
+  float: right;
+}
+
+#menu-right a, #menu-right a:hover, #menu-right a:visited {
+  color: #000000;
+}
+
+.message {
+  width: 50%;
+  color: #ff0000;
+  background: #ffdddd;
+  border: 2px solid #ff0000;
+  border-radius: 1em;
+  -moz-border-radius: 1em;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  background-color: #ffffff;
+}
+
+.refresh {
+  float: center;
+  width: 90%;
+  text-align: right;
+  margin: auto;
+  padding-top: 0;
+  padding-bottom: 2pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h2-with-refresh {
+  margin-bottom: 0;
+}
+  </style>
+  <script src="/621214938579572901982611939206054386999/lib.js" text="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div class="menu">
+   <span id="menu-left">
+    <a href="/621214938579572901982611939206054386999/">
+     Home
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/snippets.gtl">
+     My Snippets
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/newsnippet.gtl">
+     New Snippet
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/upload.gtl">
+     Upload
+    </a>
+   </span>
+   <span id="menu-right">
+    <span class="menu-user">
+     mark &lt;mark&gt;
+    </span>
+    |
+    <a href="/621214938579572901982611939206054386999/editprofile.gtl">
+     Profile
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/logout">
+     Sign out
+    </a>
+   </span>
+  </div>
+  <div>
+   <h2 class="has-refresh">
+    Gruyere: Home
+   </h2>
+   <div class="refresh">
+    <a class="button" href="#" onclick='_refreshHome("621214938579572901982611939206054386999")'>
+     Refresh
+    </a>
+   </div>
+  </div>
+  <div class="content">
+   <table width="100%">
+    <tr>
+     <td colspan="3">
+      <b>
+       Most recent snippets:
+      </b>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:blue">
+        Cheddar Mac
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="cheddar">
+       Gruyere is the cheesiest application on the web.
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=cheddar">
+       All snippets
+      </a>
+      <a href="https://images.google.com/?q=cheddar+cheese">
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:red; text-decoration:underline">
+        Brie
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="brie">
+       Brie is the queen of the cheeses
+       <span style="color:red">
+        !!!
+       </span>
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=brie">
+       All snippets
+      </a>
+      <a href="https://news.google.com/news/search?q=brie">
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:">
+        mark
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="mark">
+       newsnippet
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=mark">
+       All snippets
+      </a>
+      <a href='&lt;script&gt;alert("homepage XSS")&lt;\script&gt;'>
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+   </table>
+  </div>
+ </body>
+</html>
+

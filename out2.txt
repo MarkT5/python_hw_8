@@ -1,0 +1,746 @@
+GET '/621214938579572901982611939206054386999/' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/snippets.gtl?uid=mark
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+200 OK / Raw
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 200
+  Reason_Phrase= OK
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 1353
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:11:48 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = None
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'f6879c1b92ac19163d92b95e0086c930'}
+###[ Raw ]###
+     load      = b'\x1f\x8b\x08\x00\x00\x00\x00\x00\x02\xff\xb5Xmo\xdb6\x10\xfe\xee_\xc18h\x95v\x91%\xdbI\x1a+\xb6\x8a5)\xda\x02MW,)\xb6\x01\x03\x06J\xa2-6\xb4\xa8\x92T\x9ct\xdb\x7f\xdf\xf1E\xb2\xec8]\xea\xb6B\x10J\xc7\xe3\xbd<\xcf\x91\xbcd\xbcs\xf6\xcb\xe9\xe5\x1f\xef_\xa2\xd7\x97\xe7o\xd1\xfb\x0f/\xde\xbe9E]?\x08~\x1b\x9e\x06\xc1\xd9\xe5\x99\x9d8\xe8\x85}t)p!\xa9\xa2\xbc\xc0,\x08^\xbe\xeb\xc6\x9d\xf1\x8e\xef\xa3S^\xde\n:\xcb\x15\x1a\x84\xfdg\xe8\x15\xe73F\xd0\x9b"\xed!\xdf\x07\x9d\\\xcd\x99\x1e\x08\xce`PT1\x12\xbf\x12\xd5-\x11$B\xaf\xf9\x9c\x8c\x03+\xec\x8c\xa5\xba\xd5c\xf0\xf4KF\x9f\x06\x9dN\xc2\xb3\xdb}\xa4-\xef#\x95\xed#Y\xe2b\x1fe\xf4z\x1f\xd1\xa2\xac\x14H\xc9\x8d\xc2\x82`\xf4w\x07\xa1)/\x94?\xc5s\xcan#$!\r_\x12A\xa7\'\xf5\x94\xa4\x9f!\x96\xfeA\xa9N:\xffZ\xebf]\x82\xd3\xab\x99\xe0U\x91E\xa8\x12l\xcfKsB$\xe9\x95\xc5\xcc{\x82\x14/QJ\nE\x04\x12\xa4$Xi{\xda\xaf\x8f\x19\x9d\x15\x91\x9b\xd4R^\xe2\x94*p\x1e\xf6\x8eC\xe3#\x1f\x18\x0f\x9b\xd5[A\r\xc3R5\xa2\x05\xd1\x90D(\xe1,3VTf\xac\\\x13\xa1h\x8aYm\t"\xd3kJ\x9ce\xb4\x98E\xe8\xb0\xbc1\xeax\x1f\xe1(\xe7\xa0\xbet\x9e\x91\x94\x0b\xaci\x85\x1c\x8b\x8c\x08F\x0b\xa2W\xa7\x9cq\x11\xa1\xdd\x10\x9e$\xb1\xeb\xa3k\n%@\xac\xd7Z!I\xb4\x8aU\xe8%\x95R`j\x93^\xcbP/\x85t \xdd;\x18025\xe9\xce\xb1\x98\xd1\xc2\xd7\x9f\x11\xc2\x95\xe2-\xa1\xb0 \xd4\xd2\x05\xcdT\x1e\xa1Q\xf8\xe8d\x8d\xb2\xdd)<i\xba\x02\xc5 \xd4X\x80\x1e\x17\x90+\xe0[\xde \xc9\x19\xcd\xb4v\xd2?\x18\xd9\xf8\xe6\xa4\xa8\xee\r\xae1\xd6\x07c\xc6"\x1a\x1e\xba\xb7\xaf\x0c\xdeI\x81\xb0eh\x0fJ\xe8\x01\xf1\xfb\x95tD\xb7\x19\xd0L\xddWN\xbbf\x99\x8e\xdbn\x1b\xc6\xb1\xaa\xd3^\x9d\x86Jj\x7f\xd9\xa2Z\x93\xddW\x03\xaeV\xac\xae\xdd\xe4-oFpG\xa1\xf1\xe7>W\x1d\xd6\xc2\xff\xf1\x08\xa8H\x89g\xc4\xcc;\x94\x0f-\xca\xb5\xf6tZ#\xb4\x86{\x06O\x1b\xf7A\x1b\xf7f\x8d\x99\xf4\x05\xceh%\xa1<\xc8\\K\xfd9\xff\xeco\x9eZ\xa9\xa4{x\xb9\xef\x90\xb0\xa5\xf3\xe5Rr\xb2\x84\xc3\xa6\x9c\xd7b@b\xd3!\xb9L\xd8_\xa2\xa1\x1f\x8b\x9d SAd\xde\xa6j\x19\xcbj\xc9\xb6\xe3ut\xde\r\xd7\xa5n\xe3\r\xdb\x92&\xdaR\xad\xe7\x15nH\xcaq\x9b\x0f\xfc\x05U\xb9\xdf\x8es\xa3\xe68p\xd7\x0c\xdc7\xa9\xa0\xa5BR\xa4\x93np4\xe8\x0f`\xff\x0c\x8f\x0f\x9f\x8d\x0e\x9f\rFa\x7ft<8\xea\xf7G\xc3\xd1 <\n\x0f\x0f\x86\xc7G\xa3\xd1(`4\xe9}\x94]\x93\xe5\xa4\xab\x7f\x07\x1f\xf15\xb6\xb6\xf4\xa5\x18\xd8W\xfdf/\xbd\xceX\xdf(z\x84\x1b\n\xa5\x0cK9\xf1t\xe1z1\x049\xd6\x97\x17\xa2\x99\x15\x99\xcdc\xe40\x83Q\x0e\xe9L\xbc\x07\xc7\xe6\xc5\xf6B\xc5\xd6\x00Bn\xf8g\x0b[\xb2\xa0eI\x94\xec\xcd\x14\xf3\xe2\xf3\xdb\xc7E"\xcb\x93\x0b\'m\xf9\xd8\xc6xA\x16\xce\xbe5\xff\x8e,V\xec\x7f\xa3\xf9\xaa\x84\n\xcd\xac\xe9\x0f\xe6}\x15\x13\xe0\x08@\xdf\x80\xbe)Wo\r=\xab\xd3\xe2\xcd\x9c\xac\x8d\x96\xa9\xb3+\xf4\x98\xa9\x13\xfd\xf2xf\xca\xd6,l\xdc|#\x17$\xa3\xaa\x14|J\x19\xb1I\xbd\xb7\x1f\xdf\x08\x13\xe33^A\xba\x17\xb0U\x11\xbc\xdd-\x9c\x16V\xe3\x00\xaa\xd7\x15\xb1\xee\xe7\x065"9\x96\xf5\xae\xf3\xd6;\xbb|\x10\xafT}\xa3\x07\xc1:\x91\xed\x18<\xc4\x8b\x94\xd1\xf4j\xe2\xfd\xe5\x94\xb4\x85\xbd\xee\x03s\xe9>\xf1\\\xf6\xbb^\xfc\xab5\xa0\xd3qQ\xd7C+\x14\xd7\x82x\xba)\xc5\tt\x97\xe6\x10\x9bx\xfd0|\x04B\x9d\xb9\x12\xf1\x18Z,8\x0e5\x04\x13o\x08q\'\xf19\x97\n:>}\xfa\xa1z\x93D\xe3 \x01_*\xd3\xbf\x04\xacv\xcb\xed>\x06qg\x89\xaaQ[\x9b@`\xd7\x96\x999\x9ctt\xfa\x08NXE\xbc\xf84\'Y\x86\x05:\xc7\xa9#C{\xbbkk5\x83ee\xa7v}C\x0e\xa2\x12'
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright 2017 Google Inc. -->
+<html>
+ <head>
+  <title>
+   Gruyere: Home
+  </title>
+  <style>
+   /* Copyright 2017 Google Inc. */
+
+body, html, td, span, div, input, textarea {
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+
+body {
+  background: url('cheese.png') top center repeat;
+  text-align: center;
+  opacity: 0.80;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+a, a:hover {
+  text-decoration: underline;
+  color: #0000bb;
+}
+
+a:visited {
+  color: #bb0000;
+}
+
+a.button:visited {
+  color: #0000bb;
+}
+
+.content {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background: #ffffcc;
+  padding: 20px;
+  border: 3px solid #ffb149;
+}
+
+.menu {
+  text-align: left;
+  padding: 10px 20px 35px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 90%;
+  background: #ffffcc;
+  border: 3px solid #ffb149;
+}
+
+.menu-user {
+  color: #000000;
+  font-weight: bold;
+}
+
+#menu-left {
+  float: left;
+}
+
+#menu-left a, #menu-left a:hover, #menu-left a:visited {
+  color: #000000;
+}
+
+#menu-right {
+  float: right;
+}
+
+#menu-right a, #menu-right a:hover, #menu-right a:visited {
+  color: #000000;
+}
+
+.message {
+  width: 50%;
+  color: #ff0000;
+  background: #ffdddd;
+  border: 2px solid #ff0000;
+  border-radius: 1em;
+  -moz-border-radius: 1em;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  background-color: #ffffff;
+}
+
+.refresh {
+  float: center;
+  width: 90%;
+  text-align: right;
+  margin: auto;
+  padding-top: 0;
+  padding-bottom: 2pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h2-with-refresh {
+  margin-bottom: 0;
+}
+  </style>
+  <script src="/621214938579572901982611939206054386999/lib.js" text="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div class="menu">
+   <span id="menu-left">
+    <a href="/621214938579572901982611939206054386999/">
+     Home
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/snippets.gtl">
+     My Snippets
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/newsnippet.gtl">
+     New Snippet
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/upload.gtl">
+     Upload
+    </a>
+   </span>
+   <span id="menu-right">
+    <span class="menu-user">
+     mark &lt;mark&gt;
+    </span>
+    |
+    <a href="/621214938579572901982611939206054386999/editprofile.gtl">
+     Profile
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/logout">
+     Sign out
+    </a>
+   </span>
+  </div>
+  <div>
+   <h2 class="has-refresh">
+    Gruyere: Home
+   </h2>
+   <div class="refresh">
+    <a class="button" href="#" onclick='_refreshHome("621214938579572901982611939206054386999")'>
+     Refresh
+    </a>
+   </div>
+  </div>
+  <div class="content">
+   <table width="100%">
+    <tr>
+     <td colspan="3">
+      <b>
+       Most recent snippets:
+      </b>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:blue">
+        Cheddar Mac
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="cheddar">
+       Gruyere is the cheesiest application on the web.
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=cheddar">
+       All snippets
+      </a>
+      <a href="https://images.google.com/?q=cheddar+cheese">
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:red; text-decoration:underline">
+        Brie
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="brie">
+       Brie is the queen of the cheeses
+       <span style="color:red">
+        !!!
+       </span>
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=brie">
+       All snippets
+      </a>
+      <a href="https://news.google.com/news/search?q=brie">
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+    <tr>
+     <td>
+     </td>
+     <td>
+      <b>
+       <span style="color:">
+        mark
+       </span>
+      </b>
+     </td>
+     <td width="100%">
+      <span id="mark">
+       asdasdasd
+      </span>
+      <br/>
+      <a href="/621214938579572901982611939206054386999/snippets.gtl?uid=mark">
+       All snippets
+      </a>
+      <a href='&lt;script&gt;alert("homepage XSS")&lt;\script&gt;'>
+       Homepage
+      </a>
+      <br/>
+      <br/>
+     </td>
+    </tr>
+   </table>
+  </div>
+ </body>
+</html>
+
+GET '/621214938579572901982611939206054386999/snippets.gtl?uid=mark' 
+###[ HTTP Request ]###
+  Method    = GET
+  Path      = /621214938579572901982611939206054386999/snippets.gtl?uid=mark
+  Http_Version= HTTP/1.1
+  A_IM      = None
+  Accept    = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= gzip, deflate
+  Accept_Language= ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= keep-alive
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = GRUYERE=3933173|mark||author; GRUYERE_ID=621214938579572901982611939206054386999
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = google-gruyere.appspot.com
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = http://google-gruyere.appspot.com/621214938579572901982611939206054386999/
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= 1
+  User_Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0 (Edition Yx 05)
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+200 OK / Raw
+###[ HTTP Response ]###
+  Http_Version= HTTP/1.1
+  Status_Code= 200
+  Reason_Phrase= OK
+  Accept_Patch= None
+  Accept_Ranges= None
+  Access_Control_Allow_Credentials= None
+  Access_Control_Allow_Headers= None
+  Access_Control_Allow_Methods= None
+  Access_Control_Allow_Origin= None
+  Access_Control_Expose_Headers= None
+  Access_Control_Max_Age= None
+  Age       = None
+  Allow     = None
+  Alt_Svc   = None
+  Cache_Control= no-cache
+  Connection= None
+  Content_Disposition= None
+  Content_Encoding= gzip
+  Content_Language= None
+  Content_Length= 1275
+  Content_Location= None
+  Content_MD5= None
+  Content_Range= None
+  Content_Security_Policy= None
+  Content_Type= text/html
+  Date      = Sat, 07 Feb 2026 19:11:50 GMT
+  Delta_Base= None
+  ETag      = None
+  Expires   = None
+  IM        = None
+  Keep_Alive= None
+  Last_Modified= None
+  Link      = None
+  Location  = None
+  P3P       = None
+  Permanent = None
+  Pragma    = no-cache
+  Proxy_Authenticate= None
+  Public_Key_Pins= None
+  Refresh   = None
+  Retry_After= None
+  Server    = Google Frontend
+  Set_Cookie= None
+  Status    = None
+  Strict_Transport_Security= None
+  Timing_Allow_Origin= None
+  Tk        = None
+  Trailer   = None
+  Transfer_Encoding= None
+  Upgrade   = None
+  Vary      = Accept-Encoding
+  Via       = None
+  WWW_Authenticate= None
+  Warning   = None
+  X_Content_Duration= None
+  X_Content_Security_Policy= None
+  X_Content_Type_Options= None
+  X_Correlation_ID= None
+  X_Frame_Options= None
+  X_Powered_By= None
+  X_Request_ID= None
+  X_UA_Compatible= None
+  X_WebKit_CSP= None
+  X_XSS_Protection= 0
+  Unknown_Headers= {b'x-cloud-trace-context': b'88de29785d2b49fb3d92b95e0086cfeb'}
+###[ Raw ]###
+     load      = b'\x1f\x8b\x08\x00\x00\x00\x00\x00\x02\xff\xcdW{o\xdb6\x10\xff\xdf\x9f\x82u\xb0(\xe9,\xeb\xe1\xbc\xec\xc8\x02\xba\xa4h\x0b\xb4]\xb0\xa4\xd8\x06\x0c((\x89\xb6\xd8\xd0\xa2@\xd1yt\xdbw\xdf\x1d)\xc9r\xe2ti\xbb\x00\x13\x02\x8b:\x1e\xef\xf1\xbb\x17\x13=;\xfd\xf9\xe4\xe2\xf7\xb3\x97\xe4\xf5\xc5\xbb\xb7\xe4\xec\xc3Oo\xdf\x9c\x90\xbe\xeby\xbf\x8eN<\xef\xf4\xe2\xd4n\xec\r\xfd\x80\\(ZT\\sYP\xe1y/\xdf\xf7\xe3^\xf4\xccu\xc9\x89,o\x15\x9f\xe7\x9a\x84~pH^I9\x17\x8c\xbc)\xd2!q]\xe0\xc9\xf5B\xe0\x8b\xd1\x0c^\x9ak\xc1\xe2Wjy\xcb\x14\x9b\x90\xf3\x82\x97%\xd3U\xe4\xd9\x8d^T\xe9[|{\xcf\xbf$\xf8\xb9\xd7\xeb%2\xbb\x1d\x10\x94> :\x1b\x90\xaa\xa4\xc5\x80d\xfcj@xQ.5P\xd9\x8d\xa6\x8aQ\xf2g\x8f\x90\x99,\xb4;\xa3\x0b.n\'\xa4\x02W\xdc\x8a)>;n\xb6*\xfe\x19\xec\t\xf6J}\xdc\xfb\xdbJ7\xe7\x12\x9a^\xce\x95\\\x16\xd9\x84,\x95\xd8q\xd2\x9c\xb1\x8a\r\xcbb\xee\xec\x12-K\x92\xb2B3E\x14+\x19\xd5(\x0f\xf5\xbaT\xf0y1\xa97\x91*K\x9ar\r\xca\xfd\xe1\x91ot\xe4\xa1\xd1\xb0\x99\xbdc\xd4\xc8/uK\xbaf\x08\xc9\x84$RdF\x8a\xce\x8c\x94+\xa64O\xa9h$\x81ex\xa6\xa4Y\xc6\x8b\xf9\x84\xec\x977\x86\x9d\x0e\x08\x9d\xe4\x12\xd8W\xca3\x96JE1\xb4\xe0c\x911%x\xc1\xf0t*\x85T\x13\xb2\xe5\xc3\x93$\xf6\xfc\xe4\x8aC\x1a0\xab\xb5aH\x12d\xb1\x0c\xc3d\xa95\x88\xda\xc4\xd7\x114L\xc1\x1dp\xf7\x1e\x06\x82\xcd\x8c\xbb\x0b\xaa\xe6\xbcp\xf1sB\xe8R\xcb\x0eQY\x10\x1a\xea5\xcft>!c\xff\x87\xe3;!\xdb\x9a\xc1\x93\xa6kP\x84>b\x01|R\x81\xaf\x80oyC*)x\x86\xdcI\xb07\xb6\xf6-X\xb1|\xd0\xb8VX\x00\xc2\x8cD2\xda\xafW_i|M\x85\x80\xadL{\x94C\x8f\xb0\xdf]Vu\xa0\xbb\x11\xc0H=\x94N[\xe6\x18\xdam\xcbFH\xaa\x1b\xb7\xd7\xb7!\x93\xba_6\xa9\xee\xd0\x1e\xca\x81:W,\xaf-\xf2\x8e6C\xb8\xc7\xd0\xea\xab?\xd7\x156\xc4\x7f\xd1\x08\xa8T\x15\x9d3\xb3_\xa3\xbcoQn\xb8g\xb3\x06\xa1;\xb8g\xf0tq\x0f\xbb\xb8\xb7g\xcc\xa6\xabh\xc6\x97\x15\xa4\x07[ \xd5]\xc8\xcf\xee\xe6\xad\xb5Lz .\x0f5\t\x9b:_N\xa5\x9a\x96H(\xcaEC\x06$65\xc9\x95\xc3\xee\n\r|,v\x8a\xcd\x14\xab\xf2n\xa8V\xb6\xac\xa7l\xd7\xde:\x9c\xf7\xcd\xad]\xb7\xf6\xfa]Jkm\xa9\xef\xfa\xe5op\xaa\x8em\x1e\xba\xd7\\\xe7n\xd7\xce\x8d\x9c\x91W\x8f\x19\x987\xa9\xe2\xa5&\x95J\xa7}\xef \x0cB\xa8\x9f\xd1\xd1\xfe\xe1x\xff0\x1c\xfb\xc1\xf8(<\x08\x82\xf1h\x1c\xfa\x07\xfe\xfe\xde\xe8\xe8`<\x1e{\x82\'\xc3OU\xdfx9\xed\xe3\xaf\xf7\x89^Q+\x0b\x07\xa3g\x97\xb8\xb2\x83\xaf\x17\xe1D\x81w/\x82\x11ERA\xabj\xea`\xe6:1X\x19\xe1\xf4"<\xb3$S=\x86\x0e;\x94\xe4\xe0\xcf\xd4y\xb4qN\xfcZ.X\xe4Q+\x80\x90\xfa\xf5\xd77\xc8\xaa\xea\xf9<\x9ck\xe1\xc4\xefn\xb7\x8b\xa4*\x8fWS\xbb\xd5\xf1-\xc2\x0bv]\xcb\xb7\xe2\xdf\xb3\xeb5\xf9\xdf)~YB\x8afV\xf4\x07\xb3^\xc7\x04\x82\x04\xa0o@\xdf\xe4\xabs\x07=\xcb\xd3\x89\x9bi\xad-\x97I\xb4K\xb2-\xf41.\xb6\xe7&o\xcd\xc1V\xcdw\xc6\x82e\\\x97J\xce\xb8`\xd6\xa93\xfb\xf1\x9d0\t9\x97Kp\xf7\x1cj\x95\xc0\xea~\xe2t\xb0\x8a<\xc8\xde\xd8&1^\xea\xc2\x06\x91\x9cVM\xd99\x88d\x1f\xd1\xf9X\xd0\x05\x83r\xb0ex\t/\xcc\x7f/\x0f\xe3\xb5*h\xce\xc5`|M\xb2W\x08\x07\xafME*xz9u>\xd6lM\xf2\xed\xf4\x1f\xe9a\x7f@\xfa\xa8\xbe\xbf\x8b\xf2,:[N\xfc\x8b\x15\x87\xee\xd6^um\xaa/\'\x0eV\xacA\xa0\xd7\x02\xd2\xc4U\xd3\x04[H\x13\xffH\xab8\x82\xcb\x184N\xc4j\xea\x84\xe0P\x12\xbf\x10\x824U4\x89\xbc\x04\x94\xe9\x0c\x7f\xd4\xeah\xbb\xb0R:\x9fH\xc8\xc8\x95i\xa4S\x07\xfa\x9f\xb3\xbe\x8byi;M&\xd3%\xa4\xa5\x1e^+\x98\x7f;'
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright 2017 Google Inc. -->
+<html>
+ <head>
+  <title>
+   Gruyere: Snippets
+  </title>
+  <style>
+   /* Copyright 2017 Google Inc. */
+
+body, html, td, span, div, input, textarea {
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+
+body {
+  background: url('cheese.png') top center repeat;
+  text-align: center;
+  opacity: 0.80;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+a, a:hover {
+  text-decoration: underline;
+  color: #0000bb;
+}
+
+a:visited {
+  color: #bb0000;
+}
+
+a.button:visited {
+  color: #0000bb;
+}
+
+.content {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background: #ffffcc;
+  padding: 20px;
+  border: 3px solid #ffb149;
+}
+
+.menu {
+  text-align: left;
+  padding: 10px 20px 35px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 90%;
+  background: #ffffcc;
+  border: 3px solid #ffb149;
+}
+
+.menu-user {
+  color: #000000;
+  font-weight: bold;
+}
+
+#menu-left {
+  float: left;
+}
+
+#menu-left a, #menu-left a:hover, #menu-left a:visited {
+  color: #000000;
+}
+
+#menu-right {
+  float: right;
+}
+
+#menu-right a, #menu-right a:hover, #menu-right a:visited {
+  color: #000000;
+}
+
+.message {
+  width: 50%;
+  color: #ff0000;
+  background: #ffdddd;
+  border: 2px solid #ff0000;
+  border-radius: 1em;
+  -moz-border-radius: 1em;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  background-color: #ffffff;
+}
+
+.refresh {
+  float: center;
+  width: 90%;
+  text-align: right;
+  margin: auto;
+  padding-top: 0;
+  padding-bottom: 2pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.h2-with-refresh {
+  margin-bottom: 0;
+}
+  </style>
+  <script src="/621214938579572901982611939206054386999/lib.js" text="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div class="menu">
+   <span id="menu-left">
+    <a href="/621214938579572901982611939206054386999/">
+     Home
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/snippets.gtl">
+     My Snippets
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/newsnippet.gtl">
+     New Snippet
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/upload.gtl">
+     Upload
+    </a>
+   </span>
+   <span id="menu-right">
+    <span class="menu-user">
+     mark &lt;mark&gt;
+    </span>
+    |
+    <a href="/621214938579572901982611939206054386999/editprofile.gtl">
+     Profile
+    </a>
+    |
+    <a href="/621214938579572901982611939206054386999/logout">
+     Sign out
+    </a>
+   </span>
+  </div>
+  <div>
+   <h2 class="has-refresh" id="user_name">
+    mark
+   </h2>
+   <div class="refresh">
+    <a class="button" href="#" onclick='_refreshSnippets("621214938579572901982611939206054386999", "mark")'>
+     Refresh
+    </a>
+   </div>
+   <div class="content">
+    <table>
+     <tr>
+      <td colspan="2">
+       <b>
+        All snippets:
+       </b>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top">
+       <script>
+        document.write(0 + 1)
+       </script>
+      </td>
+      <td valign="top">
+       <div id="0">
+        asdasdasd
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top">
+       <script>
+        document.write(1 + 1)
+       </script>
+      </td>
+      <td valign="top">
+       <div id="1">
+        <b onmouseover='alert("mouse")'>
+         snippet
+         <blocked>
+         </blocked>
+        </b>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <td valign="top">
+       <script>
+        document.write(2 + 1)
+       </script>
+      </td>
+      <td valign="top">
+       <div id="2">
+        123
+       </div>
+      </td>
+     </tr>
+    </table>
+    <br/>
+    <a href='&lt;script&gt;alert("homepage XSS")&lt;\script&gt;'>
+     mark's site
+    </a>
+   </div>
+  </div>
+ </body>
+</html>
+
